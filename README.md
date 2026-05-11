@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -276,7 +275,9 @@ Beacause.....
 чσur hαnd ín mínє.....
 αnd α lífєtímє wíth чσu.....
 í dσn't juѕt lσvє чσu...
-í wαnt tσ lívє mч whσlє lífє wíth чσu.....🕊️♥️`;
+í wαnt tσ lívє mч whσlє lífє wíth чσu.....🕊️♥️
+
+വൈരമൊന്ന് കയ്യിൽ വെയ്ത് എങ്കെ തേടി അലൈന്തായോ.....`;
 
 let i = 0;
 
