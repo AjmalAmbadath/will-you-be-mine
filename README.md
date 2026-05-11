@@ -200,7 +200,7 @@ Open My Heart 💌
 <img src="https://i.ibb.co/v6yjDymN/pic.jpg" class="top-img">
 
 <div class="title">
-My Love Letter ❤️
+FOREVER MINE ❤️
 </div>
 
 <div class="text" id="typingText"></div>
